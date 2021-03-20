@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This repository is created for practicing git operations as part of week1 exercise of the course Front-End Web UI Frameworks and Tools: Bootstrap 4 by THE HONG KONG UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhav0000patel/git-test.git"
+  },
+  "author": "Vaibhav Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhav0000patel/git-test/issues"
+  },
+  "homepage": "https://github.com/vaibhav0000patel/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
